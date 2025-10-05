@@ -45,9 +45,9 @@ Pens and Printers tested three different sales approaches over 6 weeks:
 
 ## Project Files
 
-- `report.pdf` - Full detailed analysis and recommendations
+- `Product Sales Analysis Report.ipynb` - Full detailed analysis and recommendations
 - `scripts/` - R code for data cleaning and analysis
-- `visualizations/` - Charts and graphs
+- `product_sales.csv` - The dataset 
 
 ---
 
