@@ -51,4 +51,4 @@ Pens and Printers tested three different sales approaches over 6 weeks:
 
 ---
 
-**For full details, see the complete report.**
+**For full details, see the complete report.(Product Sales Analysis Report.ipynb)**
