@@ -22,16 +22,16 @@ Pens and Printers tested three different sales approaches over 6 weeks:
 ## Key Findings
 
 **Revenue Performance:**
-- Email + Call: **$175** median revenue per customer
-- Email: **$95** per customer
-- Call: **$45** per customer
+- Email + Call: **175** median revenue per customer
+- Email: **95** per customer
+- Call: **45** per customer
 
 **Time Efficiency:**
-- Email + Call generates **$1,029 per hour** of team time
-- Call only generates **$90 per hour** (worst ROI)
+- Email + Call generates **1,029 per hour** of team time
+- Call only generates **90 per hour** (worst Return Of Investment)
 
 **Growth Over Time:**
-- Email + Call showed strongest growth (Week 1: $125 → Week 6: $210)
+- Email + Call showed strongest growth (Week 1: 125 → Week 6: 210)
 
 ## Recommendation
 
